@@ -1,0 +1,12 @@
+*.class
+*.db
+*.pdf
+*.doc
+*.sql
+*.jpg
+*.csv
+
+# Package Files #
+*.jar
+*.war
+*.ear
